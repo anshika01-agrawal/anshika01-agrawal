@@ -6,6 +6,11 @@
 ## 🙋‍♀️ About Me
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <br/>
+🎓 Name     : Anshika Agrawal
+📍 Location : [Your City], India 🇮🇳
+🏫 Education: [Your College & Branch]
+🌐 Portfolio: [your-portfolio-link]
+📧 Email    : [your-email@gmail.com]
 
 🚀 Currently building **AI/ML & IoT Projects**
 
