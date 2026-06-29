@@ -5,6 +5,19 @@
 
 ## 🙋‍♀️ About Me
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br/>
+
+🚀 Currently building **AI/ML & IoT Projects**
+
+🏆 **Hackathon Winner** | Love solving real-world problems
+
+💡 Exploring **Deep Learning & Robotics**
+
+🔧 Backend developer with **Django**
+
+🎯 Mission: **Blend AI + Hardware for Smart Solutions**
+
+<br clear="right"/>
 
 
 
