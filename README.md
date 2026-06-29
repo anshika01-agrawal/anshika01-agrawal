@@ -45,7 +45,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anshika-agrawal-a6354636a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourhandle">
