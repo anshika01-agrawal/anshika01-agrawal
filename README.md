@@ -6,7 +6,9 @@
 
 
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshika01-agrawal&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshika01-agrawal/anshika01-agrawal/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshika01-agrawal/anshika01-agrawal/output/github-contribution-grid-snake.svg">
