@@ -15,18 +15,12 @@
 🌐  Portfolio : anshika_agr
 📧  Email     : anshikaagr200412@gmail.com
 ```
-<br/>
-🚀 Currently exploring **AI/ML & Gen AI Models**
-🏆 **Hackathon Winner** | Love solving real-world problems
-💡 Learning **Robotics & Deep Learning**
-🔧 Backend developer with **Django**
-🎯 Mission: **Blend AI + Hardware for Smart Solutions**
-<br clear="right"/>
 
-🔭 &nbsp; Currently building **Web Apps & Trading Algorithms**<br/>
-🧠 &nbsp; Exploring **AI & Machine Learning**<br/>
-💡 &nbsp; Love crafting **impactful solutions**<br/>
-🎯 &nbsp; Mission: **Open-source & push boundaries**
+🔭 &nbsp; Currently exploring **AI/ML & Gen AI Models**<br/>
+🧠 &nbsp; **Hackathon Winner** | Love solving real-world problems<br/>
+💡 &nbsp; Learning **Robotics & Deep Learning**<br/>
+🔧 &nbsp; Backend developer with **Django**<br/>
+🎯 &nbsp; Mission: **Blend AI + Hardware for Smart Solutions**
 
 </td>
 <td valign="middle" align="center" width="35%">
