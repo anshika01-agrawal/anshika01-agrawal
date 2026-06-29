@@ -4,26 +4,38 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=25&pause=1000&random=true&width=435&lines=Full+Stack+Developer+;AI%2FML+Enthusiast+;IoT+%26+Robotics+Explorer;Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" /></a>
 
 ## 🙋‍♀️ About Me
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table width="100%">
+<tr>
+<td valign="top" width="65%">
+
+```yaml
+🏷️  Name      : Anshika Agrawal
+📍  Location  : Indore, MP, India 🇮🇳
+🎓  Education : B.E. ETC @ IET DAVV (7th Sem)
+🌐  Portfolio : anshika_agr
+📧  Email     : anshikaagr200412@gmail.com
+```
 <br/>
-🎓 Name     : Anshika Agrawal
-📍 Location : [Your City], India 🇮🇳
-🏫 Education: [Your College & Branch]
-🌐 Portfolio: [your-portfolio-link]
-📧 Email    : [your-email@gmail.com]
-
-🚀 Currently building **AI/ML & IoT Projects**
-
+🚀 Currently exploring **AI/ML & Gen AI Models**
 🏆 **Hackathon Winner** | Love solving real-world problems
-
-💡 Exploring **Deep Learning & Robotics**
-
+💡 Learning **Robotics & Deep Learning**
 🔧 Backend developer with **Django**
-
 🎯 Mission: **Blend AI + Hardware for Smart Solutions**
-
 <br clear="right"/>
 
+🔭 &nbsp; Currently building **Web Apps & Trading Algorithms**<br/>
+🧠 &nbsp; Exploring **AI & Machine Learning**<br/>
+💡 &nbsp; Love crafting **impactful solutions**<br/>
+🎯 &nbsp; Mission: **Open-source & push boundaries**
+
+</td>
+<td valign="middle" align="center" width="35%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+
+</td>
+</tr>
+</table>
 
 
 
